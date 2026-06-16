@@ -1,8 +1,3 @@
-# OIBSIP-
-
-OASISINFOBYTE INTERNSHIP TASKS 
-
-
 #  Oasis Infobyte Data Science Internship — OIBSIP
 
 ![Internship](https://img.shields.io/badge/Internship-Oasis%20Infobyte-orange?style=for-the-badge)
@@ -23,7 +18,22 @@ OASISINFOBYTE INTERNSHIP TASKS
 
 ---
 
+##  Repository Structure
 
+```
+OIBSIP/
+│
+├── Task_1_Iris_Flower_Classification/
+│   ├── iris_classification.py
+│   ├── Iris.csv
+│   └── README.md
+│
+├── Task_2_Car_Price_Prediction/
+│   ├── car_price_prediction.py
+│   ├── car_data.csv
+│   └── README.md
+│
+└── README.md  ← You are here
 ```
 
 ---
@@ -32,8 +42,8 @@ OASISINFOBYTE INTERNSHIP TASKS
 
 | # | Task | Description | Status |
 |---|------|-------------|--------|
-| 1 | [Iris Flower Classification](./Task_1_Iris_Flower_Classification/) | ML model to classify iris species |  Done |
-| 2 | [Car Price Prediction](./Task_2_Car_Price_Prediction/) | ML model to predict car selling price | Done |
+| 1 | [Iris Flower Classification](./Task_1_Iris_Flower_Classification/) | ML model to classify iris species | ✅ Done |
+| 2 | [Car Price Prediction](./Task_2_Car_Price_Prediction/) | ML model to predict car selling price | ✅ Done |
 
 ---
 
@@ -49,4 +59,5 @@ OASISINFOBYTE INTERNSHIP TASKS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
+
 

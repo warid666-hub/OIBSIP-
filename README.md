@@ -18,34 +18,7 @@
 
 ---
 
-##  Repository Structure
 
-```
-OIBSIP/
-│
-├── Task_1_Iris_Flower_Classification/
-│   ├── iris_classification.py
-│   ├── Iris.csv
-│   └── README.md
-│
-├── Task_2_Car_Price_Prediction/
-│   ├── car_price_prediction.py
-│   ├── car_data.csv
-│   └── README.md
-│
-└── README.md  ← You are here
-```
-
----
-
-##  Tasks Completed
-
-| # | Task | Description | Status |
-|---|------|-------------|--------|
-| 1 | [Iris Flower Classification](./Task_1_Iris_Flower_Classification/) | ML model to classify iris species | ✅ Done |
-| 2 | [Car Price Prediction](./Task_2_Car_Price_Prediction/) | ML model to predict car selling price | ✅ Done |
-
----
 
 ##  Tech Stack
 
